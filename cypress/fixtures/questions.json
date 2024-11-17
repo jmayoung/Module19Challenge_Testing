@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Choose the correct answer",
+    "answers": [
+      { "text": "Option 1", "isCorrect": false },
+      { "text": "Option 2", "isCorrect": true },
+      { "text": "Option 3", "isCorrect": false },
+      { "text": "Option 4", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Choose the correct answer again",
+    "answers": [
+      { "text": "Option 1", "isCorrect": false },
+      { "text": "Option 2", "isCorrect": false },
+      { "text": "Option 3", "isCorrect": false },
+      { "text": "Option 4", "isCorrect": true }
+    ]
+  }
+]
